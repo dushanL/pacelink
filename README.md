@@ -1,8 +1,9 @@
-# PaceLink
+# PaceLink a
 
 ## Aplikácia pre profesionálnu časomieru na kolesách a na trati.
 
 PaceLink je moderná aplikácia navrhnutá pre športovcov, trénerov a organizátorov podujatí, ktorí vyžadujú presnú a spoľahlivú časomieru. Či už pre amatérske preteky alebo náročný tréningový proces, PaceLink poskytuje všetky nástroje, ktoré potrebuješ na meranie výkonu a sledovanie pokroku.
+
 
 ---
 
