@@ -21,4 +21,4 @@ PaceLink je moderná aplikácia navrhnutá pre športovcov, trénerov a organiz�
 Ak chcete pracovať s kódom projektu, naklonujte si repozitár:
 
 ```bash
-git clone [https://github.com/tvoj_username/pacelink.git](https://github.com/tvoj_username/pacelink.git)
+git clone https://github.com/dushanL/pacelink.git
